@@ -176,3 +176,7 @@ sup {
     }
     .main__results { width: 100%; }
 }
+footer {
+    text-align: center;
+    margin:20px;
+}
